@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e0a750d90159a7848b20f5dd7b0307c8
+timeCreated: 1523407291
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefabArco: {fileID: 1904069188121194, guid: 9243d1b649d886743af25c0c13b8b936,
+      type: 2}
+  - prefabFlecha: {fileID: 1268389052382210, guid: 052d4f0013709b94e9b434ccb1590c63,
+      type: 2}
+  - prefabEspada: {fileID: 1875003893989566, guid: 6a93c3393b908a84e8d43e23c9aa52d1,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
